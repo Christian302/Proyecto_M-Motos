@@ -1,0 +1,3 @@
+@layer utilities {
+    .dark .border { border-color: rgb(71 85 105); }
+}
